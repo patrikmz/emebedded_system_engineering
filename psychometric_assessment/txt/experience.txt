@@ -3,19 +3,19 @@
 
 [Describe a skill or knowledge you acquired recently that has been impactful for you. Why did you make this investment? What has the outcome been?]
 
-Well, it is not technical. I just got my pilot license for Ultralight flying. I did this investment because I wanted to get into Airbus. And I got in as a SoftwareArchitect.
+Well, it is not technical. I just got my pilot license for Ultralight flying. I did this investment because it was one of my chilhood dreams and I wanted to get into a aeronautical company. And I got an offer as a Software Architect.
 
 
 
 [What new skill would you like to learn? Why do you think this is important or timely or interesting? Why do you think you will be good at it?]
 
-Computer Vision. It is where my interest lies within. It is the only impact with the outside world. It will be used in any of feature areas such as cars, robotics, flying, etc.
+Computer Vision. It is where my interest lies within. I strongly believe that it will be a critical skill to have in the future.
 
 
 
 [Describe your experience as a developer on embedded Linux.]
 
-I used Linux natively as a host operating syestem for developing puposes: IDE, (cross)compiler, docker, etc.
+I have 7 years experience in the automotive industry in Germany , where I used embedded Linux in all developments such as communications or autonomous driving.
 
 
 
@@ -28,15 +28,20 @@ Unfortunatelly I do not have such experience.
 [Describe your experience of low-level boot processes and BIOS / firmware.]
 
 I have 6 years in developing firmware for ARM Cortex M3 processesors. it was my first job.
-Level of understanding is from understanding Design schematics (Last tool used is Eagle) to writing device drivers (Display, AD converter, keyboard). RTOS was also a task to use for custom aplications. Writing device drivers implied reading and understanding the processor manual and writing&adjusting the drivers within the RTOS.
+Level of understanding is from understanding design schematics (Last tool used is Eagle) to writing device drivers (Display, AD converter, keyboard). RTOS was also a task to use for custom aplications. Writing device drivers implied reading and understanding the processor manual and writing&adjusting the drivers within the RTOS.
 
 
 
 [How do you address software performance in your coding practice?]
 
- - Obeject Oriented environemnt performance - software performance is achieved by using the Design Patterns. Sometimes, depending on the programing language (C++ templates), software performance can be obtained by metaprogramming level, speeding up also compile times.
- - low level environment - use only data structures which can be mapped directly on the processor design. Such examples are for instance: data types used by the ALU unit, to the data used for Transer between interfaces SPI, RS232, ..., memory Word length within Flash, ...
+Softare performace is adressed by the following stages: Coding, Testing and Documentation.
 
+*Coding
+ 	- Object Oriented environment performance - software performance is achieved by using Design Patterns. Sometimes, depending on the programing language (C++ templates), software performance can be improved by metaprogramming level, speeding up also compile times.
+	- low level environment - use only data structures which can be mapped directly on the processor design. Such examples are for instance: data types used by the ALU unit, to the data used for Transer between interfaces SPI, RS232, ..., memory Word length within Flash, ...
+
+* Tesing - Unit-tests and code coverage. End-to-end tests.
+* Documentation: Some form of Architecture Documantation (PlantUML), System and Test Documentation, Code documentation (Clean code manners)
 
 
 [How do you prefer to drive documentation for your products?]

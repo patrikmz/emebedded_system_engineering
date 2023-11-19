@@ -2,21 +2,23 @@
 
 [How would you describe your experience as a professional software engineer?]
 
-I did experienced a range of projects and companies. I experienced having my own startup and product design. I also experienced workig in big companies. Experience comes not only by mastering the depths of software engineering. It is all about working with a team, and blending or not with the team.
+My experience ranges in different roles within teams as a software engineer as well as different companies. I also worked as a software engineer and product design in my own startup , as a reasearcher during my PhD degree and also as an experienced software engineer and architect in the recent years. 
+
 
 
 [What are your strengths as a software engineer?]
 
-Determining if a code is at a conceptual stage of block design. Also how is the code is to be fitted best for a architecture design. Can a code actually be detached or not from the hardware.
+Based on my experience, I can recognize good design code according to best practices of software design but also make the necessary corrections.
+
 
 
 [What is your proudest success as an engineer?]
 
-Seeying my design and product at customers. My proudest moment was at my startup, when product reached clients.
+My proudest moment was when my product reached clients during my startup time.
 
 
 
 [What would you like to achieve in your career and skills development?]
 
-To be able to discover new technological things or experience new roles. If it is possible my real dream is machine learning (including all mathematich with partial derivatives) with computer vision.
+In the near future I would like to discover new technologyes or experience new roles, especially developing the skils in the machine learning (including all mathematich with partial derivatives) with computer vision area.
 
