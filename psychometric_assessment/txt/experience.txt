@@ -34,7 +34,7 @@ Level of understanding is from understanding design schematics (Last tool used i
 
 [How do you address software performance in your coding practice?]
 
-Softare performace is adressed by the following stages: Coding, Testing and Documentation.
+Softare performace is adressed by the following : Coding, Testing and Documentation.
 
 *Coding
  	- Object Oriented environment performance - software performance is achieved by using Design Patterns. Sometimes, depending on the programing language (C++ templates), software performance can be improved by metaprogramming level, speeding up also compile times.
@@ -46,7 +46,7 @@ Softare performace is adressed by the following stages: Coding, Testing and Docu
 
 [How do you prefer to drive documentation for your products?]
 
-Documentation lies within the Art and form how one writes the code ("clean code a handbook of agile software craftsmanship" as a refference). Also, at a block level of understanding timings and Architecture interaction, one form of UML I personally use.
+Documentation lies within the art and form how one writes the code ("clean code a handbook of agile software craftsmanship" as a reference). Also, at a block level of understanding timings and Architecture interaction, one form of UML I personally use.
 
 
 
@@ -67,7 +67,7 @@ By providing a Chain of Testability, Code Architecture and Documentation.
 
 [Describe your C/C++ software development experience to date. How would you rate your competency with C/C++?]
 
-I have 6 years of experience in C++17. As the C++ community prgressed towards other C++ verions, I am limited on the level of libraries and Version of C++. I cannot see myself at a higher experience as this community always thrives in progress. It is like compairing double data structures on a processor ;)
+I have 6 years of experience in C++17. As the C++ community prgressed towards other C++ verions, I am limited on the level of libraries and Versions of C++. I cannot see myself at a higher experience as this community always thrives in progress. It is like compairing double data structures on a processor ;)
 
 
 
@@ -78,7 +78,7 @@ I used only Python for tests. At a test level only.
 
 [Which Linux middleware/user space stacks are you the most familiar with? For example gstreamer, libinput, audio subsystems etc]
 
-I only understand the concept of middleware. Such as DDS, ROS, SomeIp. I am experinced in using this protocols inbetween process commuinication.
+I only understand the concept of middleware. Such as DDS, ROS, SomeIp. I am experinced in using this protocols between process communication.
 
 
 
