@@ -1,0 +1,23 @@
+[Context]
+
+[Are you involved in maintaining or developing open source software projects?]
+
+No. Mostly involved in using these projects.
+
+
+
+[Why do you most want to work for Canonical?]
+
+As I observed, it is a company focused on technological interests. Also there is not a single focus of projects, and the research area is very broad.
+
+
+
+[What do you think Canonical needs to improve in its engineering and products?]
+
+I am not so deep into the company structure and way of working. I would need at least one year within the company to have an actual opinion.
+
+
+
+[Who do you think are key competitors to Canonical? How do you think Canonical should plan to win that race?]
+
+Any company which build its own distribuition of unix based OS. Propretary solutions to proprietary products. An open source solution also defines a standard among products, which is also self sustained by interests. Most companies are focusing and invest energy in own soultions, mantaineing therefore customer dependency. Open source requieres investing more in inovation, which not all companies are able to provide.
